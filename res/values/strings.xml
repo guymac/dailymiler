@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_type_prompt">Workout type...</string>
+    <string name="workout_note_prompt">Workout note...</string>
+    <string name="distance_units_prompt">Distance Units...</string>
+    <string name="distance_value_prompt">Distance...</string>
+    <string name="day_choice_prompt">Workout day...</string>
+    <string name="duration_prompt">Time h:m:s</string>
+    <string name="felt_prompt">Choose one...</string>
+    <string name="title_prompt">Location or Title</string>
+    <string name="post_workout_text">Post Workout</string>
+    <string name="cancel_text">Close</string>
+    
+    <string name="app_name">DailyMiler</string>
+    
+    <string name="activity_label">Activity (required)</string>
+    <string name="distance_label">Distance and Time</string>
+    
+    <string name="message_label">Message</string>
+    <string name="date_label">Date</string>
+
+    <string name="title_label">Location / Title</string>
+    <string name="felt_label">Felt</string>
+    
+    <string-array name="activity_types">
+        <item>Running</item>
+        <item>Cycling</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+        <item>Hiking</item>
+        <item>Fitness</item>
+        <item>Note</item>
+    </string-array>
+    
+    <string-array name="distance_units">
+        <item>Miles</item>
+        <item>Kilometers</item>
+        <item>Yards</item>
+        <item>Meters</item>
+    </string-array>    
+    
+    <string-array name="day_choices">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>Other...</item>
+    </string-array> 
+    
+    <string-array name="felt_choices">
+        <item></item>
+        <item>Great</item>
+        <item>Good</item>
+        <item>Alright</item>
+        <item>Blah</item>
+        <item>Tired</item>
+        <item>Injured</item>        
+    </string-array>            
+</resources>
